@@ -7,10 +7,13 @@
     <!--img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=CMSXI&fontSize=45&animation=fadeIn&fontAlignY=35&desc=%20&descAlignY=50&descAlign=50" -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&font=Nanum+Gothic+Coding&color=000000&size=30&weight=700&lines=Hi,+I'm+최민서;Call+me+Minseo-Choi" alt="Typing SVG" /></a>
     
+   
   </div>
+  <br>
+
 </body>
 
-
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cms0755)](https://solved.ac/cms0755)
 
 
 
